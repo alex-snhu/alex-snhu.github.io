@@ -88,6 +88,6 @@ The rescue animal dashboard uses a MongoDB database to display animal data from 
 
 ### Links
 
-* [View Original Code](#)
-* [View Enhanced Code](#)
-* [Download Narrative](#)
+* [View Original Code](https://github.com/alex-snhu/CS340_Journal)
+* [View Enhanced Code](./artifacts/animaldashboard/CS499_AnimalDashboard_Enhanced.zip)
+* [Download Narrative](./narratives/CS499_AnimalDashboard_Enhancement_Narrative.docx)
