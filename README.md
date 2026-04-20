@@ -35,9 +35,9 @@ The Travlr application is a full stack web application I developed using the MEA
 
 ### Links
 
-* [View Original Code](#)
-* [View Enhanced Code](#)
-* [Download Narrative](#)
+* [View Original Code](./artifacts/travlr/travlr-express_Original.zip)
+* [View Enhanced Code](./artifacts/travlr/travlr-express_Enhanced.zip)
+* [Download Narrative](./narratives/CS499_Travlr_Enhancement_Narrative.docx)
 
 ---
 
