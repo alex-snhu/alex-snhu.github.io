@@ -35,9 +35,9 @@ The Travlr application is a full stack web application I developed using the MEA
 
 ### Links
 
-* [View Original Code](./artifacts/travlr/travlr-express_Original.zip)
-* [View Enhanced Code](./artifacts/travlr/travlr-express_Enhanced.zip)
-* [Download Narrative](./narratives/CS499_Travlr_Enhancement_Narrative.docx)
+* [View Original Artifact](./artifacts/travlr/travlr-express_Original.zip)
+* [View Enhanced Artifact](./artifacts/travlr/travlr-express_Enhanced.zip)
+* [View Narrative](./narratives/CS499_Travlr_Enhancement_Narrative.docx)
 
 ---
 
@@ -61,9 +61,9 @@ The Corner Grocer program tracks grocery item frequencies using a map. It allows
 
 ### Links
 
-* [View Original Code](https://github.com/alex-snhu/Cplusplus-Program)
-* [View Enhanced Code](./artifacts/cornergrocer/CS499_CornerGrocer_Enhanced.zip)
-* [Download Narrative](./narratives/CS499_CornerGrocer_Enhancement_Narrative.docx)
+* [View Original Artifact](https://github.com/alex-snhu/Cplusplus-Program)
+* [View Enhanced Artifact](./artifacts/cornergrocer/CS499_CornerGrocer_Enhanced.zip)
+* [View Narrative](./narratives/CS499_CornerGrocer_Enhancement_Narrative.docx)
 
 ---
 
@@ -88,6 +88,6 @@ The rescue animal dashboard uses a MongoDB database to display animal data from 
 
 ### Links
 
-* [View Original Code](https://github.com/alex-snhu/CS340_Journal)
-* [View Enhanced Code](./artifacts/animaldashboard/CS499_AnimalDashboard_Enhanced.zip)
-* [Download Narrative](./narratives/CS499_AnimalDashboard_Enhancement_Narrative.docx)
+* [View Original Artifact](https://github.com/alex-snhu/CS340_Journal)
+* [View Enhanced Artifact](./artifacts/animaldashboard/CS499_AnimalDashboard_Enhanced.zip)
+* [View Narrative](./narratives/CS499_AnimalDashboard_Enhancement_Narrative.docx)
