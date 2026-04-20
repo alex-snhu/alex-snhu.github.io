@@ -61,9 +61,9 @@ The Corner Grocer program tracks grocery item frequencies using a map. It allows
 
 ### Links
 
-* [View Original Code](#)
-* [View Enhanced Code](#)
-* [Download Narrative](#)
+* [View Original Code](https://github.com/alex-snhu/Cplusplus-Program)
+* [View Enhanced Code](./artifacts/cornergrocer/CS499_CornerGrocer_Enhanced.zip)
+* [Download Narrative](./narratives/CS499_CornerGrocer_Enhancement_Narrative.docx)
 
 ---
 
